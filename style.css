@@ -1,12 +1,18 @@
 header{
-    background-color: magenta;
-}
-main{
     background-color: blueviolet;
 }
-footer{
-    background-color: rgb(12, 89, 233);
+main{
+    background-color: fuchsia;
 }
-img{
-    400px
+footer{
+    background-color: coral ;
+}
+header img{
+    width: 400px;
+}
+main img{
+    width: 400px;
+}
+.foto{
+    width: 400px;
 }
